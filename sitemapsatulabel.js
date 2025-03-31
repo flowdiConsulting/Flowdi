@@ -1,4 +1,4 @@
-/* sitemap satu label by penaindigo.com */
+/* sitemap satu label by flowdiconsulting.com */
 
 var numposts = 100;
 var standardstyling = true;
