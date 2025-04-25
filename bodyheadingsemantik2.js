@@ -1,4 +1,4 @@
-<script>
+
   const listItemsSemantik2 = document.querySelectorAll('.list-heading-semantik-2');
   const bodyWrapperSemantik2 = document.querySelector('.body-heading-semantik-2');
 
@@ -66,4 +66,4 @@
 
   window.addEventListener('load', samakanTinggiHeadingSemantik2);
   window.addEventListener('resize', samakanTinggiHeadingSemantik2);
-</script>
+
