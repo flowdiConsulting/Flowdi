@@ -1,6 +1,5 @@
-
-  const listItemsSemantik2 = document.querySelectorAll('.list-heading-semantik-2');
-  const bodyWrapperSemantik2 = document.querySelector('.body-heading-semantik-2');
+const listItemsSemantik2 = document.querySelectorAll('.list-heading-semantik-2');
+const bodyWrapperSemantik2 = document.querySelector('.body-heading-semantik-2');
 
   function samakanTinggiHeadingSemantik2() {
     const headingsSemantik2 = document.querySelectorAll('.heading-semantik-2');
